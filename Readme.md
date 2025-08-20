@@ -1,5 +1,3 @@
-Perfect ✅ — based on your **DeepBlur project report PDF**, here’s a well-structured `README.md` file draft:
-
 ````markdown
 # DeepBlur – GAN-based Face De-Identification System
 
